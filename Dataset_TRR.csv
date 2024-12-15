@@ -1,0 +1,20 @@
+id,stop_type,Stop Duration,weight,Arr,Due
+14,Delivery,14,875,0,480
+15,Delivery,10,400,240,400
+16,Delivery,35,4800,0,480
+18,Pickup,57,4880,0,480
+19,Pickup,21,1018,120,480
+20,Delivery,30,2106,0,240
+21,Delivery,15,1940,0,240
+22,Delivery,20,2886,60,300
+23,Delivery,26,2834,30,240
+24,Delivery,11,3610,30,240
+25,Delivery,7,862,0,480
+26,Delivery,13,1800,180,300
+27,Delivery,15,11920,180,300
+28,Pickup,15,1415,0,480
+29,Pickup,12,10245,0,480
+30,Pickup,30,4424,0,480
+31,Delivery,25,2782,0,480
+32,Delivery,41,2236,60,200
+33,Delivery,43,2730,0,480
